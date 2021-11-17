@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+body {
+  background-color: aliceblue;
+}
+
+.inputText {
+  width: 90%;
+  height: 90%;
+}
+
+.inputText input {
+  background-color: red;
+  width: 90%;
+  height: 90%;
+}
